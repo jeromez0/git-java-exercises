@@ -12,7 +12,7 @@ public class Main {
 		
 		Consonants cons = new Consonants("replace all consonants here pl0x");
 		
-		
+		LastLetterCount last = new LastLetterCount("many words");
 	}
 	
 	
