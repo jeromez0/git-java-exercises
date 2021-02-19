@@ -10,6 +10,9 @@ public class Main {
 		
 		Words word = new Words("how many words are in here I have no idea");
 		
+		Consonants cons = new Consonants("replace all consonants here pl0x");
+		
+		
 	}
 	
 	
