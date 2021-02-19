@@ -13,5 +13,6 @@ public class Vowels {
 			}			
 		}
 		System.out.println("number of vowels in the sentence is: " + this.count);
+		return;
 	}	
 }
