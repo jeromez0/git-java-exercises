@@ -8,6 +8,8 @@ public class Main {
 		Palindrome pal1 = new Palindrome("wowowowowow");
 		Palindrome pal2 = new Palindrome("awesome_possum");
 		
+		Words word = new Words("how many words are in here I have no idea");
+		
 	}
 	
 	
